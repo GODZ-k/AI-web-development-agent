@@ -1,1 +1,1 @@
-{"root":["./src/index.ts"],"version":"5.7.3"}
+{"root":["./src/server.ts","./src/common/constants.ts","./src/common/get-env.ts","./src/common/prompt.ts","./src/common/stripindents.ts","./src/config/env.config.ts","./src/config/gemini.config.ts","./src/defaults/node.ts","./src/defaults/react.ts"],"version":"5.7.3"}
